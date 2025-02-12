@@ -46,7 +46,9 @@ This is a line from RStudio
 
 - Laura’s Note:
 
-- Ryan’s Note:
+- Ryan’s Note:I first experienced problems committing a message because
+  I had not yet introduced myself to Git. I then introduced myself to
+  Git within R, and was able to commit the message.
 
 - Tanish’s Note:
 
