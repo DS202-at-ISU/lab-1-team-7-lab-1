@@ -21,7 +21,7 @@ This is a line from RStudio
 
 *12.2*
 
-- Jordyn’s Note:
+- Jordyn’s Note: No issues, used the lab 1 repo
 
 - Laura’s Note:
 
@@ -31,7 +31,7 @@ This is a line from RStudio
 
 *12.3*
 
-- Jordyn’s Note:
+- Jordyn’s Note: No issues
 
 - Laura’s Note:
 
@@ -41,7 +41,8 @@ This is a line from RStudio
 
 *12.4*
 
-- Jordyn’s Note:
+- Jordyn’s Note: Had to enter a user token for the github commit, other
+  than that no issues.
 
 - Laura’s Note:
 
