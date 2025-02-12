@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/yvH536po)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,16 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+*12.2* - Jordyn’s Note: - Laura’s Note: - Ryan’s Note: - Tanish’s Note:
+
+*12.3* - Jordyn’s Note: - Laura’s Note: - Ryan’s Note: - Tanish’s Note:
+
+*12.4* - Jordyn’s Note: - Laura’s Note: - Ryan’s Note:I first
+experienced problems committing a message because I had not yet
+introduced myself to Git. I then introduced myself to Git within R, and
+was able to commit the message. - Tanish’s Note:
+
+*12.5* - Jordyn’s Note: - Laura’s Note: - Ryan’s Note: - Tanish’s Note:
+
+*12.6* - Jordyn’s Note: - Laura’s Note: - Ryan’s Note: - Tanish’s Note:

@@ -21,7 +21,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 *12.2*
 - Jordyn's Note:
 - Laura's Note:
-- Ryan's Note:
+- Ryan's Note: 
 - Tanish's Note:
 
 *12.3*
@@ -33,7 +33,7 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 *12.4*
 - Jordyn's Note:
 - Laura's Note:
-- Ryan's Note:
+- Ryan's Note:I first experienced problems committing a message because I had not yet introduced myself to Git. I then introduced myself to Git within R, and was able to commit the message. 
 - Tanish's Note:
 
 *12.5*
