@@ -25,7 +25,8 @@ This is a line from RStudio
 
 - Laura’s Note:
 
-- Ryan’s Note:
+- Ryan’s Note: This step was completed already, once I joined the
+  correct team within Github
 
 - Tanish’s Note:
 
@@ -35,7 +36,9 @@ This is a line from RStudio
 
 - Laura’s Note:
 
-- Ryan’s Note:
+- Ryan’s Note: I first input the incorrect URL into RStudio when
+  creating the project. Once I input the correct URL, this proccess was
+  simple.
 
 - Tanish’s Note:
 
@@ -57,7 +60,9 @@ This is a line from RStudio
 
 - Laura’s Note:
 
-- Ryan’s Note:
+- Ryan’s Note: I first experienced issues with this because there were
+  merge conflicts. Once I was able to resolve the merge conflicts,
+  committing changes was simple.
 
 - Tanish’s Note:
 
@@ -67,6 +72,6 @@ This is a line from RStudio
 
 - Laura’s Note:
 
-- Ryan’s Note:
+- Ryan’s Note: No problems in this step.
 
 - Tanish’s Note:
