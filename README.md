@@ -28,7 +28,7 @@ This is a line from RStudio
 - Ryan’s Note: This step was completed already, once I joined the
   correct team within Github
 
-- Tanish’s Note: Cloned repo successfully!
+- Tanish’s Note: Git repo was created.
 
 *12.3*
 
@@ -40,7 +40,7 @@ This is a line from RStudio
   creating the project. Once I input the correct URL, this proccess was
   simple.
 
-- Tanish’s Note:
+- Tanish’s Note: Cloned repo successfully!
 
 *12.4*
 
@@ -53,7 +53,7 @@ This is a line from RStudio
   I had not yet introduced myself to Git. I then introduced myself to
   Git within R, and was able to commit the message.
 
-- Tanish’s Note:
+- Tanish’s Note: Local changes made, saved, committed.
 
 *12.5*
 
@@ -65,7 +65,7 @@ This is a line from RStudio
   merge conflicts. Once I was able to resolve the merge conflicts,
   committing changes was simple.
 
-- Tanish’s Note:
+- Tanish’s Note: Commits have been pushed to remote repo.
 
 *12.6*
 
@@ -75,4 +75,4 @@ This is a line from RStudio
 
 - Ryan’s Note: No problems in this step.
 
-- Tanish’s Note:
+- Tanish’s Note: Made changes to this README.md.
