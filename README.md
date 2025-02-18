@@ -28,7 +28,7 @@ This is a line from RStudio
 - Ryan’s Note: This step was completed already, once I joined the
   correct team within Github
 
-- Tanish’s Note:
+- Tanish’s Note: Cloned repo successfully!
 
 *12.3*
 
